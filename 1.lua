@@ -556,7 +556,7 @@ do
         validKeys = {
             "VIP-DEMO-0001",
             { key = "3D-LUA-DevLet", expires = "2026-10-29 23:59:59" },
-            { key = "DevLet-Safe",   expires = "2026-11-10 00:00:00" },
+            { key = "DevLet-Safe",   expires = "2026-11-13 00:00:00" },
             -- ADD YOUR KEYS HERE
         },
     }
